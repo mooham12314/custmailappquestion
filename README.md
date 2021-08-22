@@ -1,3 +1,2 @@
 # custmailappquestion
-This is an exercise question for the class Component-Based Software Development.
-The student task is to fork this repository and complete the program.
+แก้ไขโค้ดจนครบถ้วนแล้วครับ แต่มีบั๊กเกี่ยวกับเวอร์ชันจาวา เลยยังไม่ได้มดสอบรันดู
